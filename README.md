@@ -34,7 +34,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwind,js,laravel,php,ts,react,nodejs,python,arduino,mysql,git,linux,dart,docker&perline=8" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,laravel,php,ts,react,nodejs,python,arduino,mysql,git,linux,dart,wordpressdocker&perline=8" alt="tech stack icons" />
 </p>
 
 <br>
