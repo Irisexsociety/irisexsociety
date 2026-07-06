@@ -32,7 +32,7 @@ My long-term goal is to pursue a PhD. I am driven by a constant curiosity to exp
 ### GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=irisexsociety&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Irisexsociety&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisexsociety&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
