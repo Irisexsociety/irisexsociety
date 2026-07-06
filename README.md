@@ -1,33 +1,27 @@
-<h1 align="center">Hi 👋, I'm Nama Kamu</h1>
-<h3 align="center">Web Developer yang suka bikin sesuatu dari nol jadi hidup di browser 🚀</h3>
+<h1 align="center">Your Name</h1>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+%7C+Backend+%7C+Fullstack;Selalu+belajar+hal+baru+setiap+hari;Ngoding+sambil+ngopi+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Building+things+for+the+web;Curious+by+nature%2C+deliberate+by+practice;Always+chasing+the+next+idea" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding character">
-</p>
-
-<p align="center">
-  <a href="https://github.com/USERNAME_KAMU">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20views&color=36BCF7&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile+views&color=36BCF7&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 Tentang Saya
+### About
 
-- 🔭 Sedang mengerjakan: **Nama Project**
-- 🌱 Sedang belajar: **Teknologi/Framework baru**
-- 💬 Tanya saya soal: **JavaScript, React, Node.js, dll**
-- 📫 Cara menghubungi saya: **email@kamu.com**
-- ⚡ Fun fact: **tulis fun fact tentang kamu**
+I am a web developer with a strong interest in building clean, functional, and thoughtful digital products. I enjoy solving problems that require both technical precision and creative thinking, and I take pride in writing code that is not just working, but understandable and maintainable.
+
+### Vision
+
+My long-term goal is to pursue a PhD. I am driven by a constant curiosity to explore new ideas, question existing systems, and contribute meaningful innovation, whether through research, engineering, or the intersection of both. I see every project I build today as a step toward deeper, more rigorous work in the future.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,git,github,figma,vscode,mongodb,mysql,postgres,docker&perline=9" alt="tech stack icons" />
@@ -35,7 +29,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -52,28 +46,20 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### Contact
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true" alt="trophy" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
+  <a href="mailto:email@kamu.com">
+    <img src="https://img.shields.io/badge/Email-email%40kamu.com-36BCF7?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+  </a>
   <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-36BCF7?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://instagram.com/USERNAME_IG" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
-  </a>
-  <a href="mailto:email@kamu.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-36BCF7?style=flat-square&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=90&section=footer" alt="footer wave" />
 </p>
