@@ -19,7 +19,7 @@
     <td width="70%" valign="top">
       <h3 align="left">Hello, I'm Shoultond</h3>
       <p align="left">
-        <strong>Education:</strong> Software Engineering Student )<br>
+        <strong>Education:</strong> Software Engineering Student<br>
       </p>
       <p align="left">
         <em>"Driven by curiosity to build things that matter—creating innovation to make life better for everyone."</em>
