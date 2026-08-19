@@ -1,61 +1,80 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+Welcome+to+My+Profile;I'm+Habi+%7C+Software++Engineer;Nice+to+Meet+You" alt="Typing SVG" />
-</h1>
+<!-- HEADER SECTION -->
+<div align="center">
+  <h1>Shoultond Habiyakso</h1>
+  <p><strong>Software Engineering Student &bull; UI/UX &bull; Product Development</strong></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irisexsociety&label=Profile%20views&color=3B82F6&style=for-the-badge" alt="profile views" />
+  <p>
+    <code>THINK</code> &mdash;
+    <code>DESIGN</code> &mdash;
+    <code>BUILD</code> &mdash;
+    <code>IMPROVE</code>
+  </p>
+</div>
+
+<hr />
+
+<br />
+
+<!-- ABOUT SECTION -->
+<h3>About</h3>
+<p>
+  I'm a Software Engineering student focused on turning complex problems into purposeful digital products. 
+  I believe great software starts with empathy, understanding the real-world needs behind an idea before building the technical solution.
+</p>
+<p>
+  My focus spans across software engineering, user experience design, innovation, and data-driven product development.
 </p>
 
-<br>
+<br />
 
-<!-- PERKENALAN SINGKAT: ABOUT & VISION -->
-<table>
+<!-- WHAT I BUILD SECTION -->
+<h3>What I Build</h3>
+
+<table width="100%">
   <tr>
-    <!-- Bagian Kiri: Karakter Say Hello -->
-<td width="30%" align="center" valign="middle">
-  <img src="https://github.com/Irisexsociety.png" width="120px" alt="Hello Character" />
-</td>
-    <!-- Bagian Kanan: Nama, Pendidikan, dan Notes -->
-    <td width="70%" valign="top">
-      <h3 align="left">Hello, I'm Shoultond</h3>
-      <p align="left">
-        <strong>Education:</strong> Software Engineering Student<br>
-      </p>
-      <p align="left">
-        <em>"Driven by curiosity to build things that matter—creating innovation to make life better for everyone."</em>
-      </p>
+    <td width="33%" valign="top">
+      <h4>Software</h4>
+      <p>Web applications and digital systems built with a focus on usability, clean architecture, and practical value.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Design</h4>
+      <p>Simple, functional user interfaces designed around how people actually interact with digital products.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Innovation</h4>
+      <p>Exploring modern technologies and methodologies to solve everyday problems efficiently.</p>
     </td>
   </tr>
 </table>
 
-<br>
-<br>
+<br />
 
-### Tech Stack
+<!-- CORE FOCUS SECTION -->
+<h3>Core Focus</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,laravel,php,ts,react,nodejs,python,arduino,mysql,git,linux,dart,wordpress,docker,figma&perline=8" alt="tech stack icons" />
+<p>
+  <img src="https://img.shields.io/badge/Software_Engineering-18181B?style=flat-square&logoColor=white" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-18181B?style=flat-square&logoColor=white" alt="UI UX" />
+  <img src="https://img.shields.io/badge/Product_Development-18181B?style=flat-square&logoColor=white" alt="Product Development" />
+  <img src="https://img.shields.io/badge/Data_Analysis-18181B?style=flat-square&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-18181B?style=flat-square&logoColor=white" alt="AI" />
 </p>
 
-<br>
-<br>
+<br />
 
-### Connect with Me
+<!-- CONNECT SECTION -->
+<h3>Connect</h3>
 
-<p align="center">
+<p>
   <a href="mailto:exsocietyiris@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-exsocietyiris%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.shields.io/badge/Email-exsocietyiris%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white" alt="email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/shoultond-habiyakso" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-shoultond--habiyakso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shoultond_Habiyakso-18181B?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://instagram.com/habiyksa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40habiyksa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@habiyksa-18181B?style=flat-square&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" alt="footer wave" />
 </p>
