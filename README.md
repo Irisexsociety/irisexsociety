@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/Email-exsocietyiris%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white" alt="email" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/shoultond-habiyakso" target="_blank">
+  <a href="https://www.linkedin.com/in/shoultond-habiyakso-15ba10319/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shoultond_Habiyakso-18181B?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   &nbsp;
