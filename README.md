@@ -40,19 +40,6 @@
 <br>
 <br>
 
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irisexsociety&theme=tokyonight&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irisexsociety&theme=dark" alt="GitHub Contribution Grid" />
-</p>
-
-<br>
-<br>
-
 ### Connect with Me
 
 <p align="center">
